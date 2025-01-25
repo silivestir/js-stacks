@@ -1,8 +1,7 @@
-```
 
-markdown
 
-### 2-Day Quiz Project by Assey
+```markdown
+# 2-Day Quiz Project by Assey
 
 This project consists of three different coding challenges. Each challenge is designed to test your understanding of JavaScript and basic programming concepts.
 
@@ -73,3 +72,4 @@ The program should simulate the current day (for example, you can hardcode the d
 
 Good luck with your quiz!
 ```
+
