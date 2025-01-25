@@ -1,13 +1,12 @@
-
-
-``` markdown
+```markdown
 # 2-Day Quiz Project by Assey
 
 This project consists of three different coding challenges. Each challenge is designed to test your understanding of JavaScript and basic programming concepts.
 
 ---
+```
 
-## Question 1: **Print "I Love JS" Using Asterisks**
+## Question 1: **Print " I Love JS" Using Asterisks**
 
 ### **Objective:**
 Create a program that prints the phrase **"I Love JS"** using `console.log()` and asterisks (`*`) in such a way that each letter of the phrase forms a recognizable shape. Use functions for each letter.
@@ -21,16 +20,19 @@ Create a program that prints the phrase **"I Love JS"** using `console.log()` an
 ### **Hint:**
 Begin with simple patterns for each letter, then combine them to form the full phrase.
 
+  ---
+```
 ---
-
-## Question 2: **RAM Diagram and Variable Scope**
+```
+### Question 2: **RAM Diagram and Variable Scope**
 
 ### **Objective:**
 Draw a RAM diagram to visualize the variable declaration and scope in the following code. Also, explain the scope of each variable.
 
-### **Code:**
+### **Code:**```
 
-```javascript
+
+   ```javascript
 let a = 5;
 function checkNumber() {
     let b = 10;
