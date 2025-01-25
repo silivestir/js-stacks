@@ -1,7 +1,6 @@
 
 
-```
-markdown
+``` markdown
 # 2-Day Quiz Project by Assey
 
 This project consists of three different coding challenges. Each challenge is designed to test your understanding of JavaScript and basic programming concepts.
@@ -31,8 +30,7 @@ Draw a RAM diagram to visualize the variable declaration and scope in the follow
 
 ### **Code:**
 
-```
-javascript
+```javascript
 let a = 5;
 function checkNumber() {
     let b = 10;
